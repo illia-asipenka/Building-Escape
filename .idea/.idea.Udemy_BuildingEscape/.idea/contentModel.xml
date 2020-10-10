@@ -43366,6 +43366,7 @@
     <e p="C:\Users\Mitrafan\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Mitrafan\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Udemy_BuildingEscape.2056760970.00" t="ExcludeRecursive" />
     <e p="D:\Unreal study\Projects\Udemy_BuildingEscape" t="IncludeFlat">
+      <e p=".gitignore" t="Include" />
       <e p="Config" t="Include">
         <e p="DefaultEditor.ini" t="Include" />
         <e p="DefaultEngine.ini" t="Include" />
@@ -43386,6 +43387,8 @@
           <e p="Udemy_BuildingEscape.h" t="Include" />
           <e p="Udemy_BuildingEscapeGameModeBase.cpp" t="Include" />
           <e p="Udemy_BuildingEscapeGameModeBase.h" t="Include" />
+          <e p="WorldPosition.cpp" t="Include" />
+          <e p="WorldPosition.h" t="Include" />
         </e>
         <e p="Udemy_BuildingEscape.Target.cs" t="Include" />
         <e p="Udemy_BuildingEscapeEditor.Target.cs" t="Include" />
