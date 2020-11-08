@@ -43382,6 +43382,10 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="Source" t="Include">
         <e p="Udemy_BuildingEscape" t="Include">
+          <e p="Grabber.cpp" t="Include" />
+          <e p="Grabber.h" t="Include" />
+          <e p="OpenDoor.cpp" t="Include" />
+          <e p="OpenDoor.h" t="Include" />
           <e p="Udemy_BuildingEscape.Build.cs" t="Include" />
           <e p="Udemy_BuildingEscape.cpp" t="Include" />
           <e p="Udemy_BuildingEscape.h" t="Include" />
