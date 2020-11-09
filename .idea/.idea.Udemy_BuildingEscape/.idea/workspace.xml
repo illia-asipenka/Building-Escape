@@ -18,10 +18,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Source/Udemy_BuildingEscape/WorldPosition.cpp" />
-        <option value="$PROJECT_DIR$/Source/Udemy_BuildingEscape/OpenDoor.h" />
-        <option value="$PROJECT_DIR$/Source/Udemy_BuildingEscape/Grabber.h" />
         <option value="$PROJECT_DIR$/Source/Udemy_BuildingEscape/Grabber.cpp" />
+        <option value="$PROJECT_DIR$/Source/Udemy_BuildingEscape/Grabber.h" />
         <option value="$PROJECT_DIR$/Source/Udemy_BuildingEscape/OpenDoor.cpp" />
+        <option value="$PROJECT_DIR$/Source/Udemy_BuildingEscape/OpenDoor.h" />
       </list>
     </option>
   </component>
@@ -274,6 +274,8 @@
       <workItem from="1604150814445" duration="4702000" />
       <workItem from="1604337476648" duration="4894000" />
       <workItem from="1604427928506" duration="3124000" />
+      <workItem from="1604843194960" duration="8184000" />
+      <workItem from="1604945595405" duration="3787000" />
     </task>
     <servers />
   </component>
